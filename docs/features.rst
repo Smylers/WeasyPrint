@@ -304,8 +304,8 @@ Three features from this module have been implemented in WeasyPrint.
 
 .. _bookmarks:
 
-The first feature is `PDF bookmarks`_.  Using the experimental_
-``bookmark-level`` and ``bookmark-level`` properties, you can add
+The first feature is `PDF bookmarks`_.  Using the
+``bookmark-level`` and ``bookmark-label`` properties, you can add
 bookmarks that will be available in your PDF reader.
 
 Bookmarks have already been added in the WeasyPrint's `user agent stylesheet`_,
